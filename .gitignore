@@ -4,8 +4,15 @@ __pycache__/
 *.egg-info/
 .env
 
-# Data (raw API responses are large)
-# Keep the CSV files committed
+collect_data.py
+annotate_data.py
+fix_labels.py
+convert_raw.py
+review_labels.py
+pre-eval.pdf
+
+# Data (raw API responses are large) not including csv
+data_raw/
 
 # OS
 .DS_Store
