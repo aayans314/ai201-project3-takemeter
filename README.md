@@ -1,5 +1,6 @@
 # TakeMeter: Ronaldo vs Messi GOAT Debate Classifier
 
+Walkthrough here: https://youtu.be/Irhnw9r8WPo
 A fine-tuned text classifier that evaluates discourse quality in the Ronaldo vs Messi GOAT (Greatest of All Time) debate on Reddit. Built to help football fans — especially during the 2026 World Cup — distinguish between genuine analysis, emotional hot takes, provocative bait, and diplomatic appreciation in online discussions.
 
 ---
